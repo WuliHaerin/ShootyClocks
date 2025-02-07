@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\ShootyClock\\ShootyClock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|D:\\UnityProject\\ShootyClock\\ShootyClock\\assets\\_shootyclocks\\scripts\\gameplay\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|solutionrelative:assets\\_shootyclocks\\scripts\\gameplay\\gameplayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|D:\\UnityProject\\ShootyClock\\ShootyClock\\assets\\_shootyclocks\\scripts\\gameplay\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|solutionrelative:assets\\_shootyclocks\\scripts\\gameplay\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9898FCB-02EC-B115-1D73-F0071F4D6334}|UnityEngine.UI.csproj|d:\\unityproject\\shootyclock\\shootyclock\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9898FCB-02EC-B115-1D73-F0071F4D6334}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|d:\\unityproject\\shootyclock\\shootyclock\\assets\\_shootyclocks\\scripts\\gameplay\\levelselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|solutionrelative:assets\\_shootyclocks\\scripts\\gameplay\\levelselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|d:\\unityproject\\shootyclock\\shootyclock\\assets\\_shootyclocks\\scripts\\gameplay\\colorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|solutionrelative:assets\\_shootyclocks\\scripts\\gameplay\\colorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|d:\\unityproject\\shootyclock\\shootyclock\\assets\\_shootyclocks\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B243D27-341C-C345-140F-1CD619986D54}|Assembly-CSharp.csproj|solutionrelative:assets\\_shootyclocks\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Text.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Text.cs",
+              "ToolTip": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Text.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:19:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelSelectionUI.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\LevelSelectionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\LevelSelectionUI.cs",
+              "ToolTip": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\LevelSelectionUI.cs",
+              "RelativeToolTip": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\LevelSelectionUI.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:03:47.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\ColorHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\ColorHandler.cs",
+              "ToolTip": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\ColorHandler.cs",
+              "RelativeToolTip": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\ColorHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:58:56.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameManager.cs",
+              "ToolTip": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameManager.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAD4v4YAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:44:09.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\_ShootyClocks\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\_ShootyClocks\\Ad\\Ad.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:39:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameplayUI.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameplayUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameplayUI.cs",
+              "ToolTip": "D:\\UnityProject\\ShootyClock\\ShootyClock\\Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameplayUI.cs",
+              "RelativeToolTip": "Assets\\_ShootyClocks\\Scripts\\Gameplay\\GameplayUI.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAD4v8YAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:37:40.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
